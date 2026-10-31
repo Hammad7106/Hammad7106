@@ -1,10 +1,13 @@
-- 👋 Greetings, I am Hammad, a BSCS graduate.
-- 👀 In tech, I’m interested in Web Development with a focus on the Python-Django stack. My proficiency is demonstrated through the successful development of dynamic web applications, showcased in detail within my profile.
-- 🌱 Currently expanding my skill set, I am engaged in mastering front-end technologies, specifically React, with the aim of seamlessly integrating it with Django.
-- 💞️ Open to collaboration, I am actively seeking projects rooted in web development, particularly those centered around Django. Your partnership in advancing these endeavors would be greatly valued. #WebDevelopment #PythonDjango #React #CollaborationOpportunity
+👋 Hi, I'm Hammad Mubeen, a Full Stack Software Engineer passionate about building scalable, reliable, and AI-powered applications.
 
+💻 **Technical Expertise:** Specialized in Python, Django, Django REST Framework, FastAPI, and modern frontend technologies like React and Next.js. Experienced in designing RESTful APIs, microservices, asynchronous processing, and cloud-native applications.
 
-<!---
-Hammad7106/Hammad7106 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🤖 **AI & Automation:** Building AI-powered solutions using RAG pipelines, multi-agent systems, LLM integrations, and intelligent workflow automation.
+
+☁️ **Cloud & DevOps:** Hands-on experience with AWS, Docker, CI/CD pipelines, GitHub Actions, PostgreSQL, Redis, and distributed systems.
+
+🚀 **Engineering Mindset:** Passionate about system design, clean architecture, performance optimization, technical problem-solving, and building maintainable software that solves real-world problems.
+
+🤝 **Collaboration:** Always open to connecting with engineers, exploring challenging projects, and collaborating on innovative software solutions.
+
+#Python #Django #FastAPI #React #NextJS #AI #RAG #AWS #Microservices #SoftwareEngineering
